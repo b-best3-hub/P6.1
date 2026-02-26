@@ -12,8 +12,8 @@ using namespace std;
 int main()
 {
     int n;
-    int squareRow = 0;
-    int squareColumn = 0;
+    int squareRow = 0;        //Integer representation for how many rows the square has
+    int squareColumn = 0;     //Integer representation for how many columns the square has
 
     cout << "Enter a number for the length of your square: ";
     cin >> n;
