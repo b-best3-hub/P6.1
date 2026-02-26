@@ -1,7 +1,7 @@
 /*
 File: P6.1
 Author: Ben Best
-Date: 2026-02-25
+Date: 2026-02-26
 
 Description: Filled and hollow square to the terminal
 */
